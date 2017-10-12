@@ -3,5 +3,5 @@ hello <- function() {
 }
 
 hello2 <- function() {
-  return("Hello, wor222ld!2")
+  return("Hello, world!2")
 }
